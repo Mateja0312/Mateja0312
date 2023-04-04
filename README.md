@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Mateja, a 4th year Information Engineering student at the Faculty of Technical Sciences, University of Novi Sad.   
-▶ You can find me on [linkedIn](https://www.linkedin.com/in/mateja-miletic-714003224/).
+▶ You can find me on [linkedIn](https://www.linkedin.com/in/mateja-miletic-714003224/).  
 ▶ Check out my [resume](https://github.com/Mateja0312/Mateja0312/blob/main/Resume%20-%20Mateja%20Mileti%C4%87.pdf).
 
 <!--
